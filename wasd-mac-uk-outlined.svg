@@ -80,16 +80,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6239045"
-     inkscape:cx="756.7564"
-     inkscape:cy="199.01484"
+     inkscape:cx="743.69947"
+     inkscape:cy="258.7163"
      inkscape:document-units="px"
-     inkscape:current-layer="g4415"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="in"
-     inkscape:window-width="1468"
+     inkscape:window-width="1305"
      inkscape:window-height="959"
-     inkscape:window-x="58"
-     inkscape:window-y="92"
+     inkscape:window-x="23"
+     inkscape:window-y="84"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -2779,7 +2779,8 @@
      style="display:none"
      inkscape:label="Mac - Function Keys Alt"
      id="g4415"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        id="g4417"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98679829px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000"
@@ -3113,7 +3114,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Mac - Function Keys"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(0.87922545,0,0,0.88077519,24.347398,7.8396679)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98679829px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000"
@@ -3374,7 +3376,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Mac - Alpha"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(1.0990318,0,0,1.100969,-15.051616,-37.544643)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.98679829px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000"
@@ -4100,7 +4103,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Mac - Modifiers"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="path13218"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4401,7 +4405,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Mac - Number Pad"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g13358"
@@ -4577,7 +4582,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Mac - Cursor Keys"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1094.3438,427.89844 -5.6032,5.56875 5.6032,5.60312 0.7562,-0.79062 -4.2625,-4.2625 7.6313,0 0,-1.1 -7.6313,0 4.2969,-4.2625 -0.7906,-0.75625 z m 5.3968,5.01875 0,1.1 2.5782,0 0,-1.1 -2.5782,0 z m 3.85,0 0,1.1 2.5438,0 0,-1.1 -2.5438,0 z"
@@ -4610,7 +4616,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="WASD Media Keys"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        d="m 1113.2083,249.97849 -3.5152,-3.52138 3.5152,-3.521 0,7.04238 z m -3.7847,0 -3.5152,-3.52138 3.5152,-3.521 0,7.04238 z m -3.6608,0 -0.708,0 0,-7.04238 0.708,0 0,7.04238 z"
@@ -4641,22 +4648,30 @@
        d="m 1180.6844,182.47849 -6.323,0 0,-6.334 6.323,0 0,6.334 z"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path6131" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="WASD Volume Keys"
+     id="g4403"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
-       inkscape:connector-curvature="0"
+       id="path4417"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 1241.2527,182.47849 -2.5713,-2.385 -1.6398,0 0,-3.21776 1.6398,0 2.5713,-2.385 0,7.98776 z m 4.0517,-4.33213 0,-2.18375 0.6685,0 0,2.18375 2.1801,0 0,0.67688 -2.1801,0 0,2.18362 -0.6685,0 0,-2.18362 -2.1799,0 0,-0.67688 2.1799,0 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6133" />
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       d="m 1241.2527,249.97849 -2.5713,-2.385 -1.6398,0 0,-3.21776 1.6398,0 2.5713,-2.385 0,7.98776 z m 6.9003,-4.33213 0,0.67688 c -3.5938,0 -0.9183,0 -5.0285,0 l 0,-0.67688 c 4.1102,0 1.4347,0 5.0285,0"
+       id="path4420"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6137" />
+       d="m 1241.2527,249.97849 -2.5713,-2.385 -1.6398,0 0,-3.21776 1.6398,0 2.5713,-2.385 0,7.98776 z m 6.9003,-4.33213 0,0.67688 c -3.5938,0 -0.9183,0 -5.0285,0 l 0,-0.67688 c 4.1102,0 1.4347,0 5.0285,0"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      style="display:none"
      inkscape:label="WASD Mute Key"
      id="g4601"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        id="path4617"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4667,7 +4682,8 @@
      style="display:none"
      inkscape:label="WASD Top Cursor Keys"
      id="g8938"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        transform="scale(0.99911987,1.0008809)"
        style="font-size:14.98679829px;display:inline"
@@ -4712,7 +4728,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="WASD Cursor Keys"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        id="text22696"
        x="1081.7012"
@@ -4828,7 +4845,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Actual Mac Media Keys"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g6557"
@@ -4960,9 +4978,35 @@
   </g>
   <g
      style="display:inline"
+     inkscape:label="Volume Keys"
+     id="g4422"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       transform="translate(66.822871,166.04826)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="text4324-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1176.0523,76.508824 c 0,-0.195312 -0.1618,-0.357143 -0.3571,-0.357143 -0.095,0 -0.1842,0.03906 -0.2511,0.106027 l -1.8583,1.858259 -1.4621,0 c -0.1953,0 -0.3571,0.16183 -0.3571,0.357143 l 0,2.142857 c 0,0.195312 0.1618,0.357143 0.3571,0.357143 l 1.4621,0 1.8583,1.858259 c 0.067,0.06696 0.1562,0.106026 0.2511,0.106026 0.1953,0 0.3571,-0.16183 0.3571,-0.357142 l 0,-6.071429 m 2.1429,3.035714 c 0,-0.558035 -0.3404,-1.104911 -0.865,-1.311384 -0.045,-0.02232 -0.095,-0.0279 -0.1395,-0.0279 -0.1953,0 -0.3571,0.15625 -0.3571,0.357142 0,0.424107 0.6473,0.306921 0.6473,0.982143 0,0.675223 -0.6473,0.558036 -0.6473,0.982143 0,0.200893 0.1618,0.357143 0.3571,0.357143 0.045,0 0.095,-0.0056 0.1395,-0.0279 0.5246,-0.212053 0.865,-0.753349 0.865,-1.311384"
+         id="path4452-41" />
+    </g>
+    <g
+       transform="translate(0.37973141,98.692318)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="text4328-6">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1242.4962,76.508824 c 0,-0.195312 -0.1619,-0.357143 -0.3572,-0.357143 -0.095,0 -0.1841,0.03906 -0.2511,0.106027 l -1.8583,1.858259 -1.462,0 c -0.1953,0 -0.3572,0.16183 -0.3572,0.357143 l 0,2.142857 c 0,0.195312 0.1619,0.357143 0.3572,0.357143 l 1.462,0 1.8583,1.858259 c 0.067,0.06696 0.1563,0.106026 0.2511,0.106026 0.1953,0 0.3572,-0.16183 0.3572,-0.357142 l 0,-6.071429 m 2.1428,3.035714 c 0,-0.558035 -0.3404,-1.104911 -0.8649,-1.311384 -0.045,-0.02232 -0.095,-0.0279 -0.1395,-0.0279 -0.1954,0 -0.3572,0.15625 -0.3572,0.357142 0,0.424107 0.6473,0.306921 0.6473,0.982143 0,0.675223 -0.6473,0.558036 -0.6473,0.982143 0,0.200893 0.1618,0.357143 0.3572,0.357143 0.045,0 0.095,-0.0056 0.1395,-0.0279 0.5245,-0.212053 0.8649,-0.753349 0.8649,-1.311384 m 1.4286,0 c 0,-1.132811 -0.6808,-2.1875 -1.7299,-2.628348 -0.045,-0.01674 -0.095,-0.0279 -0.1451,-0.0279 -0.1953,0 -0.3572,0.161831 -0.3572,0.357143 0,0.15625 0.089,0.262277 0.2177,0.329241 0.1507,0.07813 0.2902,0.14509 0.4241,0.245536 0.5524,0.401785 0.8761,1.043527 0.8761,1.72433 0,0.680803 -0.3237,1.322545 -0.8761,1.724331 -0.1339,0.100446 -0.2734,0.16741 -0.4241,0.245535 -0.1284,0.06696 -0.2177,0.172992 -0.2177,0.329241 0,0.195313 0.1619,0.357143 0.3628,0.357143 0.045,0 0.095,-0.01116 0.1395,-0.0279 1.0491,-0.440847 1.7299,-1.495536 1.7299,-2.628348 m 1.4286,0 c 0,-1.713168 -1.0212,-3.264509 -2.5949,-3.939732 -0.045,-0.01674 -0.095,-0.0279 -0.1451,-0.0279 -0.1953,0 -0.3571,0.161831 -0.3571,0.357143 0,0.16183 0.084,0.251116 0.2176,0.329241 0.078,0.04464 0.1674,0.07254 0.2511,0.117188 0.1563,0.0837 0.3125,0.178571 0.4576,0.284598 0.9152,0.675222 1.4565,1.741073 1.4565,2.879464 0,1.138392 -0.5413,2.204242 -1.4565,2.879465 -0.1451,0.106026 -0.3013,0.200892 -0.4576,0.284598 -0.084,0.04464 -0.173,0.07254 -0.2511,0.117187 -0.1339,0.07813 -0.2176,0.167411 -0.2176,0.329241 0,0.195313 0.1618,0.357143 0.3571,0.357143 0.05,0 0.1005,-0.01116 0.1451,-0.0279 1.5737,-0.675222 2.5949,-2.226564 2.5949,-3.939732"
+         id="path4449-4" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
      inkscape:label="Mac - Navigation"
      id="g4621"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1166.3418,157.80546 0.024,1.09378 -6.0524,-0.0242 10.8166,10.81655 -0.7778,0.77781 -10.8166,-10.81655 10e-5,6.02805 -1.0938,0.0242 0,-7.92413 7.8996,0.0242 z"
@@ -5035,7 +5079,8 @@
      style="display:inline"
      inkscape:label="F15 Mute"
      id="g4540"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        transform="translate(269.92346,-43.184534)"
        id="g4568"
@@ -5057,7 +5102,8 @@
      style="display:inline"
      inkscape:label="Actual Mac Eject Key"
      id="g4488"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        id="path4534"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -5068,7 +5114,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Actual Mac Function Keys"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="translate(-0.65704329,-0.64982728)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5329,7 +5376,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Actual Mac Cursor Keys"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        d="m 1229.3292,436.50839 0,-6.046 5.2372,3.02738 -5.2372,3.01862 z"
