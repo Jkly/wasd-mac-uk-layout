@@ -31,4 +31,6 @@ Media key placement is based on the default built-in function commands from the 
 | <kbd>Fn</kbd> + <kbd>Pause</kbd> | Mute |
 | <kbd>Fn</kbd> + <kbd>F13</kbd> | Eject |
 
+Note: the stop media key is not supported on OSX so is omitted.
+
 ![example](example.png)
