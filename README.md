@@ -6,11 +6,12 @@ Media key placement is based on the default built-in function commands from the 
 
 | Function Commands  |               |
 | ------------------ |-------------- |
-| Fn + Insert/Help | Play/Pause |
-| Fn + Delete | Previous Track |
-| Fn + End |  Eject |
-| Fn + Page Up | Volume Up |
-| Fn + Page Down | Volume Down |
-| Fn + Pause | Mute |
-| Fn + F13 | Eject |
+| <kbd>Fn</kbd> + <kbd>Insert/Help</kbd> | Play/Pause |
+| <kbd>Fn</kbd> + <kbd>Delete</kbd> | Previous Track |
+| <kbd>Fn</kbd> + <kbd>End</kbd> |  Eject |
+| <kbd>Fn</kbd> + <kbd>Page Up</kbd> | Volume Up |
+| <kbd>Fn</kbd> + <kbd>Page Down</kbd> | Volume Down |
+| <kbd>Fn</kbd> + <kbd>Pause</kbd> | Mute |
+| <kbd>Fn</kbd> + <kbd>F13</kbd> | Eject |
+
 ![example](example.png)
